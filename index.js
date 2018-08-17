@@ -19,6 +19,7 @@ function sayHiToGrandma(string){
     console.log(string.toLowerCase())
   } 
   if (string === string.toUpperCase()){
+    console.log(string.toUpperCase())
   }
   
 }
